@@ -17,3 +17,6 @@ sudoedit flake.nix
 sudo nixos-rebuild switch --flake /etc/nixos#default
 
 ( reboot your computer )
+
+Default user: guy
+Default password: deena2 (dont ask why)
