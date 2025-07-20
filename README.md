@@ -25,6 +25,6 @@ sudo nixos-rebuild switch --flake /etc/nixos#default
 
 Default user: guy
 
-Default password: deena2 (dont ask why)
+Default password: password(dont ask why)
 
 Start GUI: run the Hyprland command
