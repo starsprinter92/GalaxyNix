@@ -4,7 +4,7 @@
 	users.users.guy = {
 		isNormalUser = true;
 		extraGroups = [ "wheel" "video" ];
-		initialPassword = "AdptHim@03";
+		initialPassword = "password";
 		description = "main user";
 		shell = pkgs.zsh;
 	      };
